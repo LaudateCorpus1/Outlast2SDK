@@ -1,0 +1,45 @@
+#pragma once
+
+// Outlast2 (1.0) SDK
+
+#include <set>
+#include <string>
+
+#include "SDK/OL2_Basic.hpp"
+
+#include "SDK/OL2_Core_structs.hpp"
+#include "SDK/OL2_Core_classes.hpp"
+#include "SDK/OL2_Core_parameters.hpp"
+#include "SDK/OL2_Engine_structs.hpp"
+#include "SDK/OL2_Engine_classes.hpp"
+#include "SDK/OL2_Engine_parameters.hpp"
+#include "SDK/OL2_GameFramework_structs.hpp"
+#include "SDK/OL2_GameFramework_classes.hpp"
+#include "SDK/OL2_GameFramework_parameters.hpp"
+#include "SDK/OL2_UDKBase_structs.hpp"
+#include "SDK/OL2_UDKBase_classes.hpp"
+#include "SDK/OL2_UDKBase_parameters.hpp"
+#include "SDK/OL2_IpDrv_structs.hpp"
+#include "SDK/OL2_IpDrv_classes.hpp"
+#include "SDK/OL2_IpDrv_parameters.hpp"
+#include "SDK/OL2_OnlineSubsystemSteamworks_structs.hpp"
+#include "SDK/OL2_OnlineSubsystemSteamworks_classes.hpp"
+#include "SDK/OL2_OnlineSubsystemSteamworks_parameters.hpp"
+#include "SDK/OL2_WinDrv_structs.hpp"
+#include "SDK/OL2_WinDrv_classes.hpp"
+#include "SDK/OL2_WinDrv_parameters.hpp"
+#include "SDK/OL2_AkAudio_structs.hpp"
+#include "SDK/OL2_AkAudio_classes.hpp"
+#include "SDK/OL2_AkAudio_parameters.hpp"
+#include "SDK/OL2_GFxUI_structs.hpp"
+#include "SDK/OL2_GFxUI_classes.hpp"
+#include "SDK/OL2_GFxUI_parameters.hpp"
+#include "SDK/OL2_XAudio2_structs.hpp"
+#include "SDK/OL2_XAudio2_classes.hpp"
+#include "SDK/OL2_XAudio2_parameters.hpp"
+#include "SDK/OL2_OnlineSubsystemPC_structs.hpp"
+#include "SDK/OL2_OnlineSubsystemPC_classes.hpp"
+#include "SDK/OL2_OnlineSubsystemPC_parameters.hpp"
+#include "SDK/OL2_OLGame_structs.hpp"
+#include "SDK/OL2_OLGame_classes.hpp"
+#include "SDK/OL2_OLGame_parameters.hpp"
